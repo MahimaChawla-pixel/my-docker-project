@@ -15,7 +15,7 @@ use the docker.yml for the code
 # docker-compose -f  docker.yml up -d 
                            -d to run in it background
 
-# #localhost:8081  
+# localhost:8081  
                            now use your ip address:port no  or use  
                              you can see the web page
 
